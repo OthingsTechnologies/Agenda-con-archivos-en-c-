@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MetodosDeOrdenamiento.dir/main.cpp.o CMakeFiles/MetodosDeOrdenamiento.dir/MetodosDeOrdenamiento.cpp.o CMakeFiles/MetodosDeOrdenamiento.dir/Agenda.cpp.o CMakeFiles/MetodosDeOrdenamiento.dir/Contact.cpp.o CMakeFiles/MetodosDeOrdenamiento.dir/AgendaFile.cpp.o  -o MetodosDeOrdenamiento 
